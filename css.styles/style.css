@@ -1,13 +1,80 @@
-
-#start{
-
-}
-#half {
-
-}
-#end{
-    background-image: image(list);
-}
-#topnav{
- float:right;   
-}
+body {
+    width: 50%;
+     }  
+   div h4{
+     font-size: 50px;
+     font-family: 'Cedarville Cursive', cursive;
+     align-items: center;
+   }
+   div {
+     margin: left 50%;; }
+    header div {
+   display: inline-block;
+   margin-top: 2em;
+   align-items: center;
+    }
+    div h6{
+      text-align: center;
+      align-items: center;
+    }
+  
+    div{
+      text-align: center;
+      align-items: center;
+    }
+  
+    p {
+      text-indent: 30px;
+      margin-top: 30px;
+  text-align: center;
+  align-items: center;
+    }
+    h1 {
+      font-size: 30px;
+      align-items: center;
+    }
+    h4 {
+  font-size: 3px;
+  align-items: center;
+    }
+    
+    h5 {
+   color: grey;
+  font-size: 14px;
+  margin-left: 6px;
+  align-items: center;
+    }
+  
+    header ul li {
+  display: inline-block;
+    }
+    
+    header ul:last-child {
+      margin-left: 6em;
+    }
+    
+    hr {
+      height: 10px;
+      border: 0;
+  
+    }
+    form{
+      list-style-type: none; /* Remove bullets */
+  
+    }
+    
+    h2 {
+      font-size: 11px;
+      color: grey;
+      border-spacing: initial 1px;
+    }
+    
+    #cake {
+      width: 95%;
+  margin-left: 78px;
+    }
+    header ul {  
+      float: right;
+      margin-top: 2.5em;
+      margin-left: 10px;
+    }
